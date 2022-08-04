@@ -3,27 +3,26 @@ let resumeData = {
     "name": "Justin J. Lugo",
     "role": "Web Developer",
     "linkedinId":"Your LinkedIn Id",
-    "skypeid": "Your skypeid",
     "roleDescription": "I am a self-taught web developer where I enjoy learning various coding languages and practices.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/justinlugo/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"http://github.com/Aodj05",
           "className":"fa fa-github"
         },
         {
           "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"http://twitter.com/Aodj05",
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "aboutme":"I am currently a contractor Camera Operator, learning fullstack web development. I find it compelling and rewarding to learn and grow through all the language and tools to produce something.",
+    "address":"Orlando, Fl",
     "website":"https://rbhatia46.github.io",
     "education":[
       {
