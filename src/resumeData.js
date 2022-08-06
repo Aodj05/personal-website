@@ -3,7 +3,7 @@ let resumeData = {
     "name": "Justin J. Lugo",
     "role": "Web Developer",
     "linkedinId":"Your LinkedIn Id",
-    "roleDescription": "I am a self-taught web developer where I enjoy learning various coding languages and practices.",
+    "roleDescription": " I am a self-taught web developer where I enjoy learning various coding languages, tools and practices.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -23,40 +23,41 @@ let resumeData = {
       ],
     "aboutme":"I am currently a contractor Camera Operator, learning fullstack web development. I find it compelling and rewarding to learn and grow through all the language and tools to produce something.",
     "address":"Orlando, Fl",
-    "website":"https://rbhatia46.github.io",
+    "website":" https://rbhatia46.github.io",
+    "phone" : " 407-462-8903",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
+        "UniversityName":"University of Central Florida",
+        "specialization":"Interdisciplinary Studies",
         "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "YearOfPassing":"2014",
+        "Achievements":"Bachelor of Science: Digital Media, Computational Science, Biology, Mythology"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
+        "UniversityName":"Valencia College",
+        "specialization":"General Education",
         "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "YearOfPassing":"2009",
+        "Achievements":"Statistics, Humanities"
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Grid Iron Productions",
+        "specialization":"Onsite camera and equipment setup and use",
+        "MonthOfLeaving":"current",
+        "YearOfLeaving":"current",
+        "Achievements":"Steady clientele"
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"StreamSportsLLC",
+        "specialization":"Setup and use of equipment, work with highlight reels",
+        "MonthOfLeaving":"dec",
+        "YearOfLeaving":"2017",
+        "Achievements":"Identified and recorded important pieces of footage"
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Skills",
     "skills":[
       {
         "skillname":"HTML5"
@@ -66,38 +67,31 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Ruby on Rails"
       }
     ],
     "portfolio":[
       {
         "name":"project1",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"images/portfolio/coffee.jpg"
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"images/portfolio/console.jpg"
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"images/portfolio/girl.jpg"
       },
       {
         "name":"project4",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
-    ],
-    "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "imgurl":"images/portfolio/judah.jpg"
       }
     ]
   }

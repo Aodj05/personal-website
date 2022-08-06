@@ -27,6 +27,7 @@ export default class About extends Component {
                            <br></br>
                            <span>{resumeData.address}</span>
                            <span>{resumeData.website}</span>
+                           <span>{resumeData.phone}</span>
                         </p>
                      </div>
                   </div>
