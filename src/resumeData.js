@@ -2,7 +2,7 @@ let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Justin J. Lugo",
     "role": "Web Developer",
-    "linkedinId":"Your LinkedIn Id",
+    "linkedinId":"https://www.linkedin.com/in/justinlugo/",
     "roleDescription": " I am a self-taught web developer where I enjoy learning various coding languages, tools and practices.",
     "socialLinks":[
         {

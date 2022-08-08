@@ -14,7 +14,9 @@ export default class ContactMe extends Component {
                 <div className="row">
                     <aside className="wight columns footer-widgets">
                         <div className="widget">
-                            <h4>LinkedIn: resumeData.linkedinId</h4>
+                            <h4>LinkedIn: {resumeData.linkedinId} </h4>
+                            <h4>Email: Aodj05@gmail.com</h4>
+                            <h4>Phone: {resumeData.phone} </h4>
                         </div>
                     </aside>
                 </div>
