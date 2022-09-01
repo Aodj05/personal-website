@@ -83,25 +83,25 @@ let resumeData = {
     {
       "name":"Cutesy Card Safari",
       "description":"Animal themed card game made with HTML5, CSS, and vanilla JavaScript",
-      "imgurl":"./personal-website/images/portfolio/CCS.png",
+      "imgurl":"../personal-website/images/portfolio/CCS.png",
       "url": "https://aodj05.github.io/CardGameJS/"
     },
     {
       "name":"Turned Based Battle",
       "description":"Reactjs turn based battle game",
-      "imgurl":"./personal-website/images/portfolio/TBB.png",
+      "imgurl":"../personal-website/images/portfolio/TBB.png",
       "url":"https://aodj05.github.io/turnbasedbattle/"
     },
     {
       "name":"MeTube",
       "description":"Youtube clone using Reactjs, MongoDB, and firebase",
-      "imgurl":"./personal-website/images/portfolio/MeTube.png",
+      "imgurl":"../personal-website/images/portfolio/MeTube.png",
       "url":"https://aodj05.github.io/metube/"
     },
     {
       "name":"DelayedGramp GitHub",
       "description":"Instagram clone made with Ruby on Rails 7",
-      "imgurl":"./personal-website/images/portfolio/Dg.png",
+      "imgurl":"../personal-website/images/portfolio/Dg.png",
       "url":"https://github.com/Aodj05/delayed_gramps"
     }
   ]
