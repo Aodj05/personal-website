@@ -19,7 +19,6 @@ export default class Portfolio extends Component {
                             <div className="portfolio-item-meta">
                               <h5>{item.name}</h5>
                               <p>{item.description}</p>
-                              <a href={item.url}>{item.name}</a>
                             </div>
                           </div>
                         </a>

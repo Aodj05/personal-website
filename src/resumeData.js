@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"",
+    "imagebaseurl":"https://rbhatia46.github.io/",
     "name": "Justin J. Lugo",
     "role": "Web Developer",
     "linkedinId":"https://www.linkedin.com/in/justinlugo/",
@@ -16,16 +16,15 @@ let resumeData = {
           "className":"fa fa-github"
         },
         {
-          "name":"twitter",
+          "name":"skype",
           "url":"http://twitter.com/Aodj05",
           "className":"fa fa-twitter"
         }
       ],
     "aboutme":"I am currently a contractor Camera Operator, learning fullstack web development. I find it compelling and rewarding to learn and grow through all the language and tools to produce something.",
-    "address":"2045 Excalibur Dr. Orlando, Fl 32822",
-    "website":"",
+    "address":"Orlando, Fl",
+    "website":" https://rbhatia46.github.io",
     "phone" : " 407-462-8903",
-    "email" : "aodj05@gmail.com",
     "education":[
       {
         "UniversityName":"University of Central Florida",
@@ -75,34 +74,24 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"RubyChess GitHub",
-        "description":"Simple chess game made from Ruby",
-        "imgurl":"images/portfolio/RubyChess.png",
-        "url": "https://github.com/Aodj05/RubyChess"
+        "name":"project1",
+        "description":"mobileapp",
+        "imgurl":"images/portfolio/coffee.jpg"
       },
       {
-        "name":"Cutesy Card Safari",
-        "description":"Animal themed card game made with HTML5, CSS, and vanilla JavaScript",
-        "imgurl":"images/portfolio/CCS.png",
-        "url": "https://aodj05.github.io/CardGameJS/"
+        "name":"project2",
+        "description":"mobileapp",
+        "imgurl":"images/portfolio/console.jpg"
       },
       {
-        "name":"Turned Based Battle",
-        "description":"Reactjs turn based battle game",  
-        "imgurl":"images/portfolio/TBB.png",
-        "url":"https://aodj05.github.io/turnbasedbattle/"
+        "name":"project3",
+        "description":"mobileapp",  
+        "imgurl":"images/portfolio/girl.jpg"
       },
       {
-        "name":"MeTube",
-        "description":"Youtube clone using Reactjs, MongoDB, and firebase",
-        "imgurl":"images/portfolio/MeTube.png",
-        "url":"https://aodj05.github.io/metube/"
-      },
-      {
-        "name":"DelayedGramp GitHub",
-        "description":"Instagram clone made with Ruby on Rails 7",
-        "imgurl":"images/portfolio/Dg.png",
-        "url":"https://github.com/Aodj05/delayed_gramps"
+        "name":"project4",
+        "description":"mobileapp",
+        "imgurl":"images/portfolio/judah.jpg"
       }
     ]
   }
