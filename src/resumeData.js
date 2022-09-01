@@ -77,31 +77,31 @@ let resumeData = {
     {
       "name":"RubyChess GitHub",
       "description":"Simple chess game made from Ruby",
-      "imgurl":"../personal-website/images/RubyChess.png",
+      "imgurl":"../personal-website/images/RubyChess.PNG",
       "url": "https://github.com/Aodj05/RubyChess"
     },
     {
       "name":"Cutesy Card Safari",
       "description":"Animal themed card game made with HTML5, CSS, and vanilla JavaScript",
-      "imgurl":"../personal-website/images/CCS.png",
+      "imgurl":"../personal-website/images/CCS.PNG",
       "url": "https://aodj05.github.io/CardGameJS/"
     },
     {
       "name":"Turned Based Battle",
       "description":"Reactjs turn based battle game",
-      "imgurl":"../personal-website/images/TBB.png",
+      "imgurl":"../personal-website/images/TBB.PNG",
       "url":"https://aodj05.github.io/turnbasedbattle/"
     },
     {
       "name":"MeTube",
       "description":"Youtube clone using Reactjs, MongoDB, and firebase",
-      "imgurl":"../personal-website/images/MeTube.png",
+      "imgurl":"../personal-website/images/MeTube.PNG",
       "url":"https://aodj05.github.io/metube/"
     },
     {
       "name":"DelayedGramp GitHub",
       "description":"Instagram clone made with Ruby on Rails 7",
-      "imgurl":"../personal-website/images/Dg.png",
+      "imgurl":"../personal-website/images/Dg.PNG",
       "url":"https://github.com/Aodj05/delayed_gramps"
     }
   ]
