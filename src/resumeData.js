@@ -77,7 +77,7 @@ let resumeData = {
     {
       "name":"RubyChess GitHub",
       "description":"Simple chess game made from Ruby",
-      "imgurl":"./personal-website/images/portfolio/RubyChess.png",
+      "imgurl":"../personal-website/images/portfolio/RubyChess.png",
       "url": "https://github.com/Aodj05/RubyChess"
     },
     {
