@@ -17,7 +17,7 @@ let resumeData = {
       },
       {
         "name":"twitter",
-        "url":"http://twitter.com/Aodj05",
+        "url":"http://twitter.com/JustinL44052917",
         "className":"fa fa-twitter"
       }
     ],
